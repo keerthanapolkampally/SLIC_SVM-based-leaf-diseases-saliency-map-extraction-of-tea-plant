@@ -1,0 +1,61 @@
+0,images,labels
+1,data/train data/Tea red scab/9.jpg,2
+2,data/train data/Tea red scab/8.jpg,2
+3,data/train data/Tea red scab/7.jpg,2
+4,data/train data/Tea red scab/6.jpg,2
+5,data/train data/Tea red scab/5.jpg,2
+6,data/train data/Tea red scab/4.jpg,2
+7,data/train data/Tea red scab/3.jpg,2
+8,data/train data/Tea red scab/20.jpg,2
+9,data/train data/Tea red scab/2.jpg,2
+10,data/train data/Tea red scab/19.jpg,2
+11,data/train data/Tea red scab/18.jpg,2
+12,data/train data/Tea red scab/17.jpg,2
+13,data/train data/Tea red scab/16.jpg,2
+14,data/train data/Tea red scab/15.jpg,2
+15,data/train data/Tea red scab/14.jpg,2
+16,data/train data/Tea red scab/13.jpg,2
+17,data/train data/Tea red scab/12.jpg,2
+18,data/train data/Tea red scab/11.jpg,2
+19,data/train data/Tea red scab/10.jpg,2
+20,data/train data/Tea red scab/1.jpg,2
+21,data/train data/Tea red leaf spot/9.jpg,1
+22,data/train data/Tea red leaf spot/8.jpg,1
+23,data/train data/Tea red leaf spot/7.jpg,1
+24,data/train data/Tea red leaf spot/6.jpg,1
+25,data/train data/Tea red leaf spot/5.jpg,1
+26,data/train data/Tea red leaf spot/4.jpg,1
+27,data/train data/Tea red leaf spot/3.jpg,1
+28,data/train data/Tea red leaf spot/20.jpg,1
+29,data/train data/Tea red leaf spot/2.jpg,1
+30,data/train data/Tea red leaf spot/19.jpg,1
+31,data/train data/Tea red leaf spot/18.jpg,1
+32,data/train data/Tea red leaf spot/17.jpg,1
+33,data/train data/Tea red leaf spot/16.jpg,1
+34,data/train data/Tea red leaf spot/15.jpg,1
+35,data/train data/Tea red leaf spot/14.jpg,1
+36,data/train data/Tea red leaf spot/13.jpg,1
+37,data/train data/Tea red leaf spot/12.jpg,1
+38,data/train data/Tea red leaf spot/11.jpg,1
+39,data/train data/Tea red leaf spot/10.jpg,1
+40,data/train data/Tea red leaf spot/1.jpg,1
+41,data/train data/Tea leaf blight/9.jpg,0
+42,data/train data/Tea leaf blight/8.jpg,0
+43,data/train data/Tea leaf blight/7.jpg,0
+44,data/train data/Tea leaf blight/6.jpg,0
+45,data/train data/Tea leaf blight/5.jpg,0
+46,data/train data/Tea leaf blight/4.jpg,0
+47,data/train data/Tea leaf blight/3.jpg,0
+48,data/train data/Tea leaf blight/20.jpg,0
+49,data/train data/Tea leaf blight/2.jpg,0
+50,data/train data/Tea leaf blight/19.jpg,0
+51,data/train data/Tea leaf blight/18.jpg,0
+52,data/train data/Tea leaf blight/17.jpg,0
+53,data/train data/Tea leaf blight/16.jpg,0
+54,data/train data/Tea leaf blight/15.jpg,0
+55,data/train data/Tea leaf blight/14.jpg,0
+56,data/train data/Tea leaf blight/13.jpg,0
+57,data/train data/Tea leaf blight/12.jpg,0
+58,data/train data/Tea leaf blight/11.jpg,0
+59,data/train data/Tea leaf blight/10.jpg,0
+60,data/train data/Tea leaf blight/1.jpg,0
